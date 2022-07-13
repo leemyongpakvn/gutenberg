@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### New Features
+
+-   Added `useBlockAttribute` hook to simplify handling block attributes when editing blocks ([#42391](https://github.com/WordPress/gutenberg/pull/42391)).
+
 ## 9.4.0 (2022-06-29)
 
 ## 9.3.0 (2022-06-15)
